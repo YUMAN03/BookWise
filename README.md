@@ -4,6 +4,8 @@ BookWise is a book recommendation system based on collaborative filtering, It di
 TechStack Used: python,flask,jupyter notebook,HTML,bootstrap
 
 For running this project, perform the following steps:
+
+
 Step 1: We will need dataset from: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 From here we will need Books.csv, Ratings.csv and Users.csv. Paste them inside the book-recommender-system folder
 
